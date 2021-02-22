@@ -5,3 +5,4 @@
 #### Languages I can code in fairly comfortably: Python, Scala
 #### I'm currently learning: Scala, functional programming, test driven development
 
+[![My 10 most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qwertpi&hide=shell,go,dart,crystal&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
