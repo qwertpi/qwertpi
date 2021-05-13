@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm a 16-year-old interested in almost every part of computer science but the bits that are most reflected in my GitHub are functional programming, and artificial neural nets.
+### I'm a 17-year-old interested in almost every part of computer science but the bits that are most reflected in my GitHub are functional programming, and artificial neural nets.
 ### [I have a blog](https://qwertpi.medium.com/index-7374f83d1011) that I post to very sporadically
 
 #### I'm currently most proud of (loosely in descending order):
