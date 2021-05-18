@@ -1,6 +1,5 @@
 ### Hi there 👋
 ### I'm a 17-year-old interested in almost every part of computer science but the bits that are most reflected in my GitHub are functional programming, and artificial neural nets.
-### [I have a blog](https://qwertpi.medium.com/index-7374f83d1011) that I post to very sporadically
 
 #### I'm currently most proud of (loosely in descending order):
 1. [My use of case classes in my solution to day 12 part 1 of the 2020 Advent of Code](https://github.com/qwertpi/advent-of-code-2020/blob/master/12/a.scala)
